@@ -1,0 +1,3 @@
+temNadaNao programaIncorreto5(){
+    unsNumero a[4][2];
+}

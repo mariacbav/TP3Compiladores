@@ -1,0 +1,87 @@
+// declaração de uma função
+temNadaNao main (){
+ //definição de variáveis   
+ unsNumero c;
+ unsQuebrado a eh 2.5;
+ a eh 3.5;
+ a eh 3+5;
+
+// if, elif e else
+ esseTrem(a<10){
+    unsNumero d;
+ }
+ ouEsseTrem(a>10){
+    c eh a + c;
+ }
+ ouEsseTrem(a>10){
+
+ }
+ ouEsseTremAqui{
+
+ }
+
+ // for
+ repete(c eh 4; c+a; c+1 ){
+
+}
+
+//while
+repeteAi(a<10){
+
+}
+
+//printf
+mostraAi("oi");
+mostraAi("Sua idade e de ", logoAli idade);
+
+//definição de string
+outroTrem palavra eh "hdb dgv";
+
+//tamanho da string e acesso a caractere
+A.tamain;
+c[2];
+
+//incremento e decremento
+a maisUmCadin;
+b menosUmCadin;
+
+// concatenação
+juntaOsTrem(a,b);
+
+//substring 
+a eh palavra [0:2];
+
+//busca de string
+cadeOce("hdb", palavra);
+
+//transformação de case
+palavra.trenzao;
+palavra.trenzin;
+
+//divisão da string
+emPedacin(" ", palavra);
+
+//declaração de matriz
+unsNumero a.montoadoDeTrem [4][2];
+
+//declaração de vetor
+unsNumero b.trem [4];
+
+//ordenação
+x.ajeitaAi;
+
+
+//switch
+escolheAi(a){
+    seFo (1):
+        mostraAi("O valor é 1");
+        poPara;
+    seFo (2):
+        mostraAi("O valor é 2");
+        poPara;
+}
+
+//scanf
+poFala(%unsNumero %unsQuebrado, logoAli a logoAli b);
+}
+

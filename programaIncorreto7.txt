@@ -1,0 +1,3 @@
+temNadaNao programaIncorreto7(){
+    repeteAi(x<5)
+}

@@ -1,0 +1,11 @@
+temNadaNao programaIncorreto6(){
+ ouEsseTrem(a>10){
+    c eh a + c;
+ }
+ ouEsseTrem(a>10){
+
+ }
+ ouEsseTremAqui{
+
+ }
+}
